@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Magpie2
+comment1.params=
+comment1.target=java.lang.String\ getGreeting()
+comment1.text=\n\ Get\ a\ default\ greeting\ \t\n\ @return\ a\ greeting\n
+comment2.params=statement
+comment2.target=java.lang.String\ getResponse(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getRandomResponse()
+comment3.text=\n\ Pick\ a\ default\ response\ to\ use\ if\ nothing\ else\ fits.\n\ @return\ a\ non-committal\ string\n
+numComments=4

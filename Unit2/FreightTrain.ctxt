@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=FreightTrain
+comment1.params=
+comment1.target=FreightTrain()
+comment2.params=n
+comment2.target=FreightTrain(int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=c
+comment4.target=void\ setCargo(java.lang.String)
+comment5.params=
+comment5.target=void\ setMultiCargo()
+comment6.params=
+comment6.target=void\ fillTrain()
+comment7.params=i
+comment7.target=void\ callForRepair(int)
+numComments=8

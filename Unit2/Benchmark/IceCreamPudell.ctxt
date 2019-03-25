@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=IceCreamPudell
+comment1.params=
+comment1.target=IceCreamPudell()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=f\ s\ c
+comment2.target=IceCreamPudell(java.lang.String,\ int,\ boolean)
+comment3.params=t
+comment3.target=void\ addTopping(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getFlavor()
+comment5.params=
+comment5.target=double\ getPrice()
+comment6.params=
+comment6.target=void\ calcPrice()
+comment7.params=n
+comment7.target=void\ addScoops(int)
+comment8.params=a\ b
+comment8.target=java.lang.String\ sundae(IceCreamPudell,\ IceCreamPudell)
+comment9.params=
+comment9.target=void\ toPrint()
+numComments=11

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Dashboard
+comment1.params=
+comment1.target=Dashboard()
+comment2.params=milesTravelled\ speed
+comment2.target=Dashboard(int,\ int)
+comment3.params=
+comment3.target=void\ accelerate()
+comment4.params=numMinutes
+comment4.target=void\ drive(int)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

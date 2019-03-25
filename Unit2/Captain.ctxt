@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Captain
+comment1.params=f\ l\ p\ t
+comment1.target=Captain(java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=UltimateTeam
+comment1.params=players\ coaches
+comment1.target=UltimateTeam(java.util.ArrayList,\ java.util.ArrayList)
+comment2.params=
+comment2.target=java.lang.String\ getCutters()
+comment3.params=
+comment3.target=java.lang.String\ getHandlers()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

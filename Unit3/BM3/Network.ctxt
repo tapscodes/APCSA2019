@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Network
+comment1.params=a
+comment1.target=void\ addDevice(Smartphone)
+comment2.params=
+comment2.target=Network()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

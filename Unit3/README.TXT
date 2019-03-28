@@ -1,1 +1,1 @@
-.
+Folders for each project

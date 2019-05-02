@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SummerAssignmentPudell
+comment0.text=\n\ Runs\ a\ couple\ different\ mtehods\n\ Author\:\ Tristan\ P.-S.\n\ SummerAssignmentPudell\ v1\n
+comment1.params=y
+comment1.target=int\ countAbsences(int[])
+comment2.params=x\ y
+comment2.target=boolean\ plagiarism(java.lang.String,\ java.lang.String)
+comment3.params=y
+comment3.target=boolean\ isLeapYear(int)
+comment4.params=d\ y
+comment4.target=java.lang.String\ getDate(int,\ int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

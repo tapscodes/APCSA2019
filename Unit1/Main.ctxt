@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=str
+comment1.target=java.lang.String\ duplicate(java.lang.String)
+comment2.params=str
+comment2.target=java.lang.String\ isEdhesivePalindrome(java.lang.String)
+comment3.params=num
+comment3.target=double\ numberScramble(double)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

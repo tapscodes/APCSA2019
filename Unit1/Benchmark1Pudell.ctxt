@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Benchmark1Pudell
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=text\ current\ change
+comment2.target=java.lang.String\ wordSwap(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=3

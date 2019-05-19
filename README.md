@@ -1,5 +1,7 @@
 # APCSA
-This is a REPO for all my AP Computer Science A Projects that I had to complete (mainly from edhesive.com). This is the PictuLab repo(https://github.com/TristanP-S/PictureLab). Here is the extra credit problems: https://github.com/TristanP-S/APCSA2019-Extra-Credit-Problems
+This is a REPO for all my AP Computer Science A Projects that I had to complete (mainly from edhesive.com). 
+This is the PictuLab repo: (https://github.com/TristanP-S/PictureLab). 
+Here is the extra credit problems: https://github.com/TristanP-S/APCSA2019-Extra-Credit-Problems
 ## Notice
 A lot of the projects concepts come from Edhesive.com
 Anyone who submits this code as their own is plagiarizing code, I am not responsible for anyone who does.
